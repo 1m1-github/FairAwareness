@@ -1,4 +1,4 @@
-# SolutionThroughAwareNess
+# FairAwareNess
 
 smart contract to hold energy from donaters
 
